@@ -1,0 +1,38 @@
+@import url("reset.css");
+*{
+    color: rgb(31, 20, 79);
+}
+#filling{
+    color: rgb(55, 164, 128);
+}
+li.colorpink{
+    color: pink;
+}
+p.colorpink{
+    color: rgb(46, 22, 26);
+}
+.colorpink.text{
+    color: plum;
+}
+.march14,
+.colorpink{
+    color: mediumspringgreen;
+}
+.lesson a{
+    color: rgb(255, 78, 166);
+}
+.lesson .cat {
+    color: peru;
+}
+.lesson *{
+    color: rgb(0, 255, 42);
+}
+.listinp > li{
+    color: rgb(0, 255, 255);
+}
+.colorpink.pink ~ p{
+    color: blueviolet;
+}
+.colorpink.pink + p{
+    color: rgb(230, 134, 0);
+}
