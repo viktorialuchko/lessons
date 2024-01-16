@@ -1,7 +1,7 @@
 @import url("fonts.css");
 @import url("reset.css");
 *{
-    width: 692px;
+    max-width: 692px;
 }
 header{
     margin-bottom: 42px;
