@@ -1,7 +1,7 @@
 @import url("fonts.css");
 @import url("reset.css");
 main {
-  width: 1169px;
+  max-width: 1169px;
   height: 518px;
   align-items: center;
 }
