@@ -1,0 +1,37 @@
+@import url("fonts.css");
+@import url("reset.css");
+body {
+  max-width: 1600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+}
+div {
+  max-width: 503px;
+  margin-right: 74px;
+  display: inline-block;
+  vertical-align: middle;
+}
+h1 {
+  font-size: 64px;
+  margin-bottom: 31px;
+}
+h2 {
+  color: #d58417;
+  font-size: 20px;
+  margin-bottom: 27px;
+}
+p {
+  color: #606060;
+  font-size: 30px;
+  line-height: 140%;
+}
+.img1 {
+  width: 187px;
+  vertical-align: middle;
+}
+.img2 {
+  width: 318px;
+  vertical-align: middle;
+}
