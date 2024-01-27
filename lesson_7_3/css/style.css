@@ -1,0 +1,57 @@
+@import url("fonts.css");
+@import url("reset.css");
+body {
+  max-width: 1240px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.rectangle {
+  width: 0;
+  height: 0;
+  border-left: 6px solid #8a33fd;
+  border-top: 28px solid #8a33fd;
+  border-radius: 10px;
+  display: inline-block;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+h1 {
+  display: inline-block;
+  color: #3c4242;
+  font-family: "Core Sans C";
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 33.5px;
+  letter-spacing: 0.56px;
+  vertical-align: middle;
+}
+header {
+  margin-bottom: 30px;
+}
+main {
+  margin-left: 21px;
+  color: #807d7e;
+  font-size: 20px;
+}
+h2 {
+  font-family: "Core Sans C";
+  font-weight: 700;
+  line-height: 33.5px; /* 167.5% */
+  letter-spacing: 0.4px;
+  margin-bottom: 25px;
+}
+p {
+  font-family: Causten;
+  line-height: 33.5px;
+  letter-spacing: 0.4px;
+  margin-bottom: 20px;
+}
+span {
+  font-family: Causten;
+  font-weight: 700;
+  line-height: 33.5px;
+  letter-spacing: 0.4px;
+}
+.text1 {
+  margin-bottom: 25px;
+}
