@@ -5,6 +5,9 @@ body {
   max-width: 1218px;
   margin-top: 50px;
 }
+.header {
+  font-size: 0;
+}
 p {
   color: #7d7d7d;
   font-family: Inter;
@@ -78,8 +81,11 @@ h3 {
 .mint {
   color: #40ddb6;
 }
-p.mint {
+.mint_p {
   margin-bottom: 35px;
+}
+.indentation {
+  margin-bottom: 0;
 }
 /* 
 .arrow-left {
