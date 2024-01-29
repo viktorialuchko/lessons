@@ -15,6 +15,10 @@ body {
   margin-right: 15px;
   vertical-align: middle;
 }
+header {
+  margin-bottom: 30px;
+  font-size: 0;
+}
 h1 {
   display: inline-block;
   color: #3c4242;
@@ -25,11 +29,8 @@ h1 {
   letter-spacing: 0.56px;
   vertical-align: middle;
 }
-header {
-  margin-bottom: 30px;
-}
 main {
-  margin-left: 21px;
+  padding-left: 21px;
   color: #807d7e;
   font-size: 20px;
 }
@@ -54,4 +55,10 @@ span {
 }
 .text1 {
   margin-bottom: 25px;
+}
+.text2 {
+  margin-bottom: 20px;
+}
+.indentation {
+  margin-bottom: 0;
 }
