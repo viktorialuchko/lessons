@@ -28,7 +28,8 @@ p {
   margin-bottom: 35px;
 }
 li {
-  margin-bottom: 26px;
+  font-size: 0;
+  padding-bottom: 26px;
 }
 .ellipse {
   display: inline-block;
@@ -42,5 +43,7 @@ li {
   vertical-align: middle;
 }
 li p {
+  font-size: 18px;
   display: inline;
+  vertical-align: middle;
 }
