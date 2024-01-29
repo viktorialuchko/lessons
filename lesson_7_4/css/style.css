@@ -1,7 +1,8 @@
 @import url("fonts.css");
 @import url("reset.css");
 body {
-  max-width: 1600px;
+  font-size: 0;
+  max-width: 1103px;
   margin: 0 auto;
   margin-top: 50px;
   font-family: Cormorant Infant;
@@ -9,7 +10,7 @@ body {
 }
 div {
   max-width: 503px;
-  margin-right: 74px;
+  margin-right: 75px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -30,6 +31,7 @@ p {
 .img1 {
   width: 187px;
   vertical-align: middle;
+  margin-right: 20px;
 }
 .img2 {
   width: 318px;
