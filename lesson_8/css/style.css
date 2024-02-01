@@ -1,9 +1,11 @@
 @import url("fonts.css");
 @import url("reset.css");
+main {
+  padding-top: 50px;
+}
 /*Блок 1*/
 .consulting1 {
   margin: 0 auto;
-  margin-top: 50px;
   margin-bottom: 150px;
   max-width: 673px;
   font-family: Inter;
@@ -18,7 +20,8 @@
   border-left: 12px solid #40ddb6;
   border-top: 12px solid #40ddb6;
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
+  margin-top: 4px;
   margin-right: 6px;
 }
 .consulting1 h2 {
